@@ -1,5 +1,5 @@
 # Hi, I'm John!  
-[Programmer](https://github.com/johneburnsjr), [Cybersecurity Professional](https://www.linkedin.com/johneburnsjr/), <!--  [YouTuber](https://www.youtube.com/c/joshmadakor) -->
+[Programmer](https://github.com/johneburnsjr), [Cybersecurity Professional](https://www.linkedin.com/johneburnsjr/), [Blogger](https://johnedwardburns.com)<!--  [YouTuber](https://www.youtube.com/c/joshmadakor) -->
 
 ## 👨‍💻 Software Development & Cybersecurity Projects:
 
