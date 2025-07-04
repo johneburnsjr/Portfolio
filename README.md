@@ -27,7 +27,7 @@ A minimal but compliant cloud workload using:
 - Security documentation aligned to NIST 800-53 (AC, AU, SI)
 
 📄 [System Security Requirements Document] <!--(link-to-your-md-file) -->
-📁 [View Terraform Code]<!--(link-to-your-repo) --.
+📁 [View Terraform Code]<!--(link-to-your-repo) -->
 
 ---
 
