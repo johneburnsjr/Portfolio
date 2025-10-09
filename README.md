@@ -1,64 +1,36 @@
 # 👋 Hi, I'm John Burns
 
-🛡️ **Cybersecurity Professional | Programmer | Blogger**  
-Crozet, VA | Security+, CySA+, SSCP | [LinkedIn](https://www.linkedin.com/in/johneburnsjr/)
+### 🛡️ Security Engineer | Systems Automation | Cloud & Infrastructure Defense  
+[Website](https://www.johnedwardburns.com) • [LinkedIn](https://www.linkedin.com/in/johnedwardburns/) • 📧 john.edward.burns.jr@gmail.com  
 
 ---
 
 ## 🔍 About Me
 
-I'm a security-focused IT professional with over 10 years of experience in systems administration and cybersecurity. My work emphasizes **cloud security**, **identity and access management**, and **security automation**. I thrive at the intersection of hands-on security engineering and clear, actionable documentation.
+I’m a **security-focused IT systems engineer** with 10+ years of experience in infrastructure, automation, and cybersecurity operations.  
+My work bridges **hands-on engineering** and **clear communication** — I design, secure, and document systems that scale.
 
-Currently expanding my portfolio to include:
-- **Infrastructure as Code (IaC)** using Terraform
-- **AWS Cloud Architecture**
-- **Compliance Mapping** to NIST 800-53 and CIS benchmarks
-- **Documentation for ATO-readiness and SSP artifacts**
+Currently focused on:
+
+- 🧱 **Infrastructure as Code (IaC)** with Terraform & Azure ARM templates  
+- ☁️ **Cloud Security Architecture** (AWS + Azure)  
+- 🔐 **Identity & Access Management (IAM)** and Zero Trust alignment  
+- 🧩 **Security Automation** with PowerShell, Python & SIEM integrations  
+- 📜 **Compliance Mapping** to NIST 800-53 and CIS Benchmarks  
+- 🧠 **Incident Response & Detection Engineering** (Splunk, Wazuh, MITRE ATT&CK)
 
 ---
 
 ## 💼 Projects in Focus
 
 ### 🔐 EC2 Secure Deployment with Terraform
-A minimal but compliant cloud workload using:
-- Terraform-based infrastructure deployment
-- AWS EC2 with hardened security groups
-- IAM role assignment and least privilege enforcement
-- Security documentation aligned to NIST 800-53 (AC, AU, SI)
+A minimal, compliant AWS workload designed for security from the start.  
 
-📄 [System Security Requirements Document] <!--(link-to-your-md-file) -->
-📁 [View Terraform Code]<!--(link-to-your-repo) -->
-
----
-
-### 🧠 Identity & Access Management (IAM)
-Automation and policy control projects for:
-- Azure AD (Entra ID) and Okta-based identity flows
-- Group lifecycle, RBAC enforcement, and MFA policy scripting
-
-🧩 PowerShell automation scripts  
-📄 IAM Policy Documentation Samples
-
----
-
-### 🚨 Threat Detection & Incident Response
-Tuning and incident visibility via:
-- Splunk log filtering
-- Microsoft Defender for Endpoint playbooks
-- TryHackMe IR labs and threat modeling practice
-
-📝 Detection tuning logic examples  
-🗂️ Response checklists & playbooks (Markdown format)
-
----
-
-### ⚙️ Security Automation & Vulnerability Management
-- Patch management and reporting with PowerShell
-- Nessus/OpenVAS scans mapped to NIST control families
-- Continuous monitoring documentation examples
-
-📈 Remediation report templates  
-🗂️ Change logs with compliance notes
+**Highlights**
+- Infrastructure as Code deployment using Terraform  
+- Hardened AWS EC2 with least-privilege IAM roles  
+- CloudWatch & GuardDuty integration  
+- Documentation mapped to NIS
 
 ---
 
