@@ -1,5 +1,4 @@
 # 👋 Hi, I'm John Burns
-# 👋 John Edward Burns
 
 ### 🛡️ Security Engineer | Systems Automation | Cloud & Infrastructure Defense  
 [Website](https://www.johnedwardburns.com) • [LinkedIn](https://www.linkedin.com/in/johnedwardburns/) • 📧 john.edward.burns.jr@gmail.com  
