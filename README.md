@@ -96,10 +96,7 @@ A hybrid SOC environment integrating Splunk, Wazuh, and cloud telemetry.
 🧩 [Lab Diagram & Setup Guide](#)  
 📁 [Automation Scripts & Configs](#)
 
----
-
-## ✍️ What I’m Writing
-I make cybersecurity **understandable and actionable** — especially for non-technical teams.  
+--- 
 
 **Recent Topics**
 - _How to Build a Home SOC for Under $20_  
